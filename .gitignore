@@ -1,2 +1,2 @@
 vendor/
-Gemfile.lock
+.bundle
