@@ -84,7 +84,6 @@ PLATFORMS
 DEPENDENCIES
   data_mapper
   dm-sqlite-adapter
-  do_sqlite3
   sinatra
   sinatra-contrib
 
